@@ -75720,7 +75720,7 @@ p.z=r>305&&!0
 s.push(p)}},
 EK(){var s=this,r=A.x(t.N,t.z)
 r.n(0,"transports",A.b(["websocket"],t.s))
-r=A.atB("wss://snake.yoapps.eu",r)
+r=A.atB("https://snake.yoapps.eu",r)
 s.ac=r
 r.e1(0,"connect",new A.a3s(s))
 s.ac.e1(0,"RoomJoining",new A.a3t(s))
